@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
+﻿// Atividade com IA
